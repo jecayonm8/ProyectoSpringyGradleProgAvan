@@ -12,9 +12,4 @@ public class HelloController {
         return "¡Listo, Spring Boot + Gradle!";
     }
 
-//    @GetMapping("/mensaje")
-//    public String mensaje(){
-//        return "Hola mundo de proyecto springboot y gradle";
-//    }
-
 }
